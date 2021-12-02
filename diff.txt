@@ -1,1 +1,2 @@
 This is to check the diff functionality.
+There is a new change
